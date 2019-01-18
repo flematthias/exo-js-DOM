@@ -1,0 +1,72 @@
+#id1 {
+    width: 100%;
+    background-color: blue;
+    height: 100px;
+    transform: rotate();
+
+
+}
+
+#id1:hover {
+    transition: transform 1s;
+    /*    transform: rotate(45deg);*/
+}
+
+#id2 {
+    width: 50%;
+    background-color: green;
+    height: 50px;
+
+}
+
+img {
+    width: 50%;
+}
+
+#textlorem {
+    display: none;
+    position: absolute;
+
+}
+
+#dessous {
+    width: 150px;
+    height: 150px;
+}
+
+#dessus {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+
+}
+
+.couleurbleue {
+    background-color: blue;
+}
+
+.class1 {
+    color: red;
+}
+
+#supertruc {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.superClass {
+    border: solid 1px black;
+    width: 25%;
+    height: 100px;
+
+}
+
+#img1 {
+    position: absolute;
+    width: 10%;
+}
+
+#missile {
+    position: absolute;
+    width: 10%;
+}
